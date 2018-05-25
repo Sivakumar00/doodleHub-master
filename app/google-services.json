@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "118239660738",
+    "firebase_url": "https://doodle-hub.firebaseio.com",
+    "project_id": "doodle-hub",
+    "storage_bucket": "doodle-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118239660738:android:4dac8e93aa8acd04",
+        "android_client_info": {
+          "package_name": "com.doodleHub.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118239660738-03je54ejdg2akmu8bd7m4lbsq6r6uvlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgELA3BFE7IYqvXNfsGpNMjgZ74EVgHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
